@@ -9,6 +9,8 @@
 
 모든 파일은 분할 압축으로 해서 올려 놓았고, 이 압축 파일 안에는 시연 영상 및 스토리보드가 포함되어 있습니다.
 
+branch : master 은 Android Studio 에서 push 한 파일이 있습니다.
+
 # Go_Trip
 Android Application
 
@@ -19,3 +21,5 @@ Description: It's a travel-related application, and there's a community space wh
 We have prepared the app user's schedule so that you can see it at a glance.
 
 All files have been uploaded in split compression, which contains demonstration images and storyboards.
+
+Branch: Master has a file pushed by Android Studio.
